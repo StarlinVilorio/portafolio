@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/02frrkb_kenqq.css","style"]
-:HL["/_next/static/chunks/0itbvlgi20~~c.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mVIN-0-5lfZvldiKjysc1"}
+:HL["/_next/static/chunks/06u~9lbj1kg99.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ZkvXBdwuovvrGsF3smLrf"}
